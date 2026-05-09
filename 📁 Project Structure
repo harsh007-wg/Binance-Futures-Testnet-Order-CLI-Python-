@@ -1,0 +1,16 @@
+binance-futures-cli/
+│
+├── app/
+│   ├── __init__.py
+│   ├── client.py
+│   ├── logger.py
+│   ├── validators.py
+│   └── config.py
+│
+├── logs/
+│   └── trading.log
+│
+├── main.py
+├── requirements.txt
+├── .env
+└── README.md
